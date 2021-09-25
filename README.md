@@ -1,5 +1,6 @@
 # Typing Game
 This is web based typing game which build with React JS and API.
+[Check it out🚀](https://test-typ.herokuapp.com/)
 
 ## Screenshot
 ![chrome_zYSS5Twfnl](https://user-images.githubusercontent.com/78084828/134755971-a10f7b06-4c49-47b9-a2f8-df4f39c5176f.png)
