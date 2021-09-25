@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="shortcut icon" href="./typing.png" type="image/x-icon">
+  <meta name="theme-color" content="#212428">
+  <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+  <title>Test Typing ⌨</title>
+
+  <!-- meta tag -->
+  <meta name="description" content="Test how fast you can type a paragraph">
+
+  <!-- Facebook Meta Tags -->
+  <meta property="og:url" content="https://shubhamashish33.github.io/test-type">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Test Typing ⌨">
+  <meta property="og:description" content="Test how fast you can type a paragraph">
+  <meta property="og:image" content="https://i.ibb.co/qm6sj2y/chrome-51i6-T0-REbd.png">
+
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="twitter:domain" content="shubhamashish33.github.io">
+  <meta property="twitter:url" content="https://shubhamashish33.github.io/test-type">
+  <meta name="twitter:title" content="Test Typing ⌨">
+  <meta name="twitter:description" content="Test how fast you can type a paragraph">
+  <meta name="twitter:image" content="https://i.ibb.co/qm6sj2y/chrome-51i6-T0-REbd.png">
+</head>
+
+<body onload="loadfun()">
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="loading" class="loader"></div>
+  <div id="text-loader">loading....👀</div>
+  <div id="root"></div>
+  <script>
+    const load = document.getElementById("loading");
+    var myvar;
+    function loadfun() {
+      myvar = setTimeout(showpage, 1000);
+    }
+    function showpage() {
+      document.getElementById("loading").style.display = 'none';
+      document.getElementById("text-loader").style.display = 'none';
+      document.getElementById("root").style.display = 'block';
+    }
+  </script>
+</body>
+
+</html>
