@@ -214,7 +214,7 @@ body {
   margin-left: 50%;
   transform: translateX(-50%);
   text-align: center;
-  opacity: 25%;
+  color: white;
   bottom: 0;
   position: absolute;
 }
