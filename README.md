@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# Typing Game
+This is web based typing game which build with React JS and API.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Screenshot
+![chrome_zYSS5Twfnl](https://user-images.githubusercontent.com/78084828/134755971-a10f7b06-4c49-47b9-a2f8-df4f39c5176f.png)
+
+## Demo
+![Zzvf0mz8Ql](https://user-images.githubusercontent.com/78084828/134756024-1155a632-2bb7-496c-a2fb-04b9c4e9fafa.gif)
+
+
+## Tech used 🖥
+1. Front End: HTML, CSS
+2. Framework: React JS
+3. API: Random Quote
+
+## API
+[Random Quote](http://api.quotable.io/random)
 
 ## Available Scripts
 
@@ -45,26 +59,5 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Follow Me
+[![](https://img.shields.io/twitter/follow/imaashish_?style=social)](https://twitter.com/imaashish_)
