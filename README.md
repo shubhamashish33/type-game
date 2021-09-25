@@ -1,5 +1,5 @@
 # Typing Game
-This is web based typing game which build with React JS and API.
+This is web based typing game which build with React JS and API.\
 [Check it out🚀](https://test-typ.herokuapp.com/)
 
 ## Screenshot
