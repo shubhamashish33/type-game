@@ -221,7 +221,7 @@ p{
   margin-left: 50%;
   transform: translateX(-50%);
   text-align: center;
-  color: white;
+  color: rgba(255, 255, 255, 0.39);
   bottom: 0;
   position: absolute;
 }
@@ -269,11 +269,6 @@ p{
 @media screen and (max-width: 478px) {
   button {
     margin-top: 50%;
-    transform: translateX(-50%) translateY(-50%);
-  }
-  .btn{
-    position: absolute;
-    top: 50%;
     transform: translateX(-50%) translateY(-50%);
   }
   .text {
