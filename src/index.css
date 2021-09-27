@@ -24,7 +24,7 @@ body {
 }
 p{
   text-align: center;
-  opacity: 50%;
+  color: rgba(255, 255, 255, 0.39);
   width: 40%;
   margin: auto;
   margin-bottom: 20px;
