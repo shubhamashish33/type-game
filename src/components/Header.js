@@ -102,6 +102,11 @@ function Header() {
   return (
     <div>
       <h1 className="text">Welcome to Test Typing 🚀</h1>
+      <p>
+        This website can assist you in typing more quickly and precisely, as
+        well as allowing you to review your performance. <br />
+        Click on Ready to start.
+      </p>
       <button onClick={start} className={visible ? "btn1" : "btn"}>
         View
       </button>
