@@ -1,11 +1,11 @@
-# Typing Game
+# Typing Game ⌨
 This is web based typing game which build with React JS and API.\
 [Check it out🚀](https://test-typ.herokuapp.com/)
 
 ## Screenshot
 ![chrome_zYSS5Twfnl](https://user-images.githubusercontent.com/78084828/134755971-a10f7b06-4c49-47b9-a2f8-df4f39c5176f.png)
 
-## Demo
+## Demo 🚀
 ![Zzvf0mz8Ql](https://user-images.githubusercontent.com/78084828/134756024-1155a632-2bb7-496c-a2fb-04b9c4e9fafa.gif)
 
 
@@ -14,7 +14,7 @@ This is web based typing game which build with React JS and API.\
 2. Framework: React JS
 3. API: Random Quote
 
-## API
+## API 🔥
 [Random Quote](http://api.quotable.io/random)
 
 ## Available Scripts
@@ -60,5 +60,8 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-## Follow Me
+## Follow Me ✨
+![20210928_153251](https://user-images.githubusercontent.com/78084828/135317183-c83acb93-1c68-4def-8f1e-b3d1dedfc9a7.jpg) \
+**If you like this content don't forget to mark it as star. Do Follow me on Twiiter to know behind the process.** \
+
 [![](https://img.shields.io/twitter/follow/imaashish_?style=social)](https://twitter.com/imaashish_)
