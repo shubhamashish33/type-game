@@ -62,6 +62,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 # Follow Me ✨
 ![20210928_153251](https://user-images.githubusercontent.com/78084828/135317183-c83acb93-1c68-4def-8f1e-b3d1dedfc9a7.jpg) \
-**If you like this content don't forget to mark it as star. Do Follow me on Twiiter to know behind the process.** \
+**If you like this content don't forget to mark it as star. Do Follow me on Twiiter to know behind the process.** 
 
 [![](https://img.shields.io/twitter/follow/imaashish_?style=social)](https://twitter.com/imaashish_)
