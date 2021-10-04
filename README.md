@@ -1,6 +1,6 @@
 # Typing Game ⌨
 This is online web based speed typing site that shows accurate or inaccurate word typed. There is also Random Quote API is used to provide better yet intuative sentences to perfectly check your keystrokes. After completion of each sentence there is scorecard which shows in how much time you have typed the whole sentence. The new sentences show after you type the current one perfectly. \
-[Check it out🚀](https://test-typ.herokuapp.com/) and let me know how you liked it?
+[Check it out🚀](https://test-typ.herokuapp.com/)
 
 # Screenshot
 ![chrome_zYSS5Twfnl](https://user-images.githubusercontent.com/78084828/134755971-a10f7b06-4c49-47b9-a2f8-df4f39c5176f.png)
