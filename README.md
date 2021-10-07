@@ -7,7 +7,7 @@ This is online web based speed typing site that shows accurate or inaccurate wor
 ![chrome_zYSS5Twfnl](https://user-images.githubusercontent.com/78084828/134755971-a10f7b06-4c49-47b9-a2f8-df4f39c5176f.png)
 
 # Demo 🚀
-![Zzvf0mz8Ql](https://user-images.githubusercontent.com/78084828/134756024-1155a632-2bb7-496c-a2fb-04b9c4e9fafa.gif)
+![tr5557xodP](https://user-images.githubusercontent.com/78084828/136314077-9e483a3a-7728-4646-abf5-8da3aa0e73a7.gif)
 
 
 # Tech used 🖥
