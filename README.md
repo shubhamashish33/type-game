@@ -63,8 +63,11 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-# Follow Me ✨
-![20210928_153251](https://user-images.githubusercontent.com/78084828/135317183-c83acb93-1c68-4def-8f1e-b3d1dedfc9a7.jpg) \
-**If you like this content don't forget to mark it as star. Do Follow me on Twiiter to know behind the process.** 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shubhamashish33.github.io/aboutmev2/)
 
-[![](https://img.shields.io/twitter/follow/imaashish_?style=social)](https://twitter.com/imaashish_)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-ashish-81a6a01b2/)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imaashish_)
+
+**If you like this content don't forget to mark it as star. Do Follow me on Twiiter to know behind the process.** 
