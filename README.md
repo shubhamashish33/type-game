@@ -13,9 +13,9 @@ This is online web based speed typing site that shows accurate or inaccurate wor
 
 
 # Tech used 🖥
-1. Front End: HTML, CSS
-2. JS Framework: React
-3. API: Random Quote
+- Front End: HTML, CSS
+- JS Framework: React
+- API: Random Quote
 
 # API 🔥
 [Random Quote](http://api.quotable.io/random)
