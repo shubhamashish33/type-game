@@ -1,4 +1,4 @@
-# Typing Game ⌨
+# Typing Game ⌨️
 This is online web based speed typing site that shows accurate or inaccurate word typed. There is also Random Quote API is used to provide better yet intuative sentences to perfectly check your keystrokes. After completion of each sentence there is scorecard which shows in how much time you have typed the whole sentence. The new sentences show after you type the current one perfectly. 
 
 
@@ -14,7 +14,7 @@ This is online web based speed typing site that shows accurate or inaccurate wor
 
 # Tech used 🖥
 1. Front End: HTML, CSS
-2. Framework: React JS
+2. JS Framework: React
 3. API: Random Quote
 
 # API 🔥
